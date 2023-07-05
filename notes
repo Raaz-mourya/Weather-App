@@ -1,0 +1,14 @@
+_cloud_pct.innerHTML = response.cloud_pct
+_feels_like.innerHTML = response.feels_like
+_humidity.innerHTML = response.humidity
+_max_temp.innerHTML = response.max_temp
+_min_temp.innerHTML = response.min_temp
+_sunrise.innerHTML = response.sunrise
+_sunset.innerHTML = response.sunset
+_temp.innerHTML = response.temp
+_wind_degrees.innerHTML = response.wind_degrees
+_wind_speed.innerHTML = response.wind_speed
+
+
+
+
